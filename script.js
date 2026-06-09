@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Pleaseeeee.",
+    "I miss you.",
+    "Let's move past this.",
+    "It's only one of our millions of fights.",
+    "I want to be better for you.",
+    "I am sorry.",
+    "I've been a jerk, I know.",
+    "I never want to see you sad again.",
+    "A million kisses are going you way right now.",
+    "Adding a billion to that. Now let's be us again."
 ];
 
 let messageIndex = 0;
